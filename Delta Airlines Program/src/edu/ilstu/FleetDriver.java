@@ -22,7 +22,7 @@ public class FleetDriver {
 		Scanner scan =new Scanner(System.in);
 		Fleet f1=new Fleet(10);
 		System.out.println();
-		System.out.println("*****************Welcome to Delta Airlines Aircraft Management System********************\n What do you want to do?");
+		System.out.println("*****************Welcome to Delta Airlines Aircraft Management System********************\n What would you like to do?");
 		setup();
 	
 	
